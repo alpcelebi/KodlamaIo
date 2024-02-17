@@ -1,0 +1,14 @@
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.AssemblyInfoInputs.cache
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.AssemblyInfo.cs
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.csproj.CoreCompileInputs.cache
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\bin\Debug\net8.0\KodlamaIoCourseDemo.exe
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\bin\Debug\net8.0\KodlamaIoCourseDemo.deps.json
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\bin\Debug\net8.0\KodlamaIoCourseDemo.runtimeconfig.json
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\bin\Debug\net8.0\KodlamaIoCourseDemo.dll
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\bin\Debug\net8.0\KodlamaIoCourseDemo.pdb
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.dll
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\refint\KodlamaIoCourseDemo.dll
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.pdb
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\KodlamaIoCourseDemo.genruntimeconfig.cache
+C:\Users\90552\Desktop\C# Kampı\KodlamaioWorkAround\KodlamaIoCourseDemo\obj\Debug\net8.0\ref\KodlamaIoCourseDemo.dll
